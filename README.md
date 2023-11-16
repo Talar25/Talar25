@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jan Talarek</h1>
 <h3 align="center">aspiring Frontend Developer</h3>
 
+- I am student of Computer Science in PJATK, Warsaw
+
 - 🌱 I’m currently learning **Node.js, MongoDB, GraphQL**
 
 - 📫 How to reach me **jantalarek25@gmail.com**
