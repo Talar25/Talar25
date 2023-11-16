@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **jantalarek25@gmail.com**
 
-- ⚡ Fun fact **I am also interested in history of Warsaw**
+- ⚡ Fun fact:  **I am also interested in history of Warsaw**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
